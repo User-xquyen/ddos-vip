@@ -19,4 +19,12 @@ Thread: 170000
 
 Method: 4000
 # Overload
-https://github.com/7zx/overload
+pkg install python3 python3-pip git -y
+
+git clone https://github.com/7zx/overload
+
+cd overload
+
+pip3 install -r requirements.txt
+
+python3 overload.py
