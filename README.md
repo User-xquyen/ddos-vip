@@ -33,9 +33,9 @@ pip3 install -r requirements.txt
 python3 overload.py
 
 ├───Cách Nhập
-│
+
 ├───TIME:1000
-│
+
 └───THREADS:20000
-│
+
 └───URL:link web
