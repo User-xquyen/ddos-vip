@@ -1,5 +1,6 @@
 # Setup termux
 pkg install golang
+
 pkg install openjdk-17
 # Setup gg cloud
 sudo apt install golang
