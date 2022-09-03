@@ -13,7 +13,7 @@ sudo apt install golang
 # Lệnh Vào Tool
 git clone https://github.com/User-xquyen/ddos-vip
 
-cd toolddos-vippro
+cd free-ddos
 # Chế độ Get sài cho web https://
 go run ddosbyxq.go https://linkweb.com 2000 get 5000 nil
 # Chế độ Post xài cho web http://
