@@ -9,6 +9,8 @@ pkg install openjdk-17
 # Setup gg cloud
 sudo apt update
 
+sudo apt upgrade
+
 sudo apt install golang
 # Lệnh Vào Tool
 git clone https://github.com/Xuan-QuyenDepzaivailon/free-ddos
