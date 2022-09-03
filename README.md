@@ -11,7 +11,7 @@ sudo apt update
 
 sudo apt install golang
 # Lệnh Vào Tool
-git clone https://github.com/User-xquyen/ddos-vip
+git clone https://github.com/Xuan-QuyenDepzaivailon/free-ddos
 
 cd free-ddos
 # Chế độ Get sài cho web https://
